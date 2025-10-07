@@ -1,0 +1,10 @@
+streamlit
+requests
+python-dotenv
+sentence-transformers
+faiss-cpu
+googletrans==4.0.0-rc1
+langdetect
+pandas
+plotly
+tqdm
