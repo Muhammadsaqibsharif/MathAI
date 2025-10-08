@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+sentence-transformers
+chromadb
+openai
+transformers
+numpy
+tqdm
+scikit-learn
+matplotlib
+python-dotenv
