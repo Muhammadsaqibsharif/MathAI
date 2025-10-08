@@ -1,9 +1,0 @@
-.venv/
-__pycache__/
-.env
-faiss.index
-chunks.npy
-*.pyc
-.DS_Store
-.pytest_cache/
-.coverage
