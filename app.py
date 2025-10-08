@@ -15,7 +15,7 @@ BASE = Path(__file__).parent
 DATA_DIR = BASE / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
-store = EmbeddingStore(persist_directory=str(BASE / "chroma_db"))
+store = EmbeddingStore(persist_directory=str(BASE / "vector_store"))
 
 st.title("MathAI — Conversational Study Assistant (MVP)")
 
